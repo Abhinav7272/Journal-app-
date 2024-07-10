@@ -1,0 +1,8 @@
+Spring:
+  data:
+    mongodb:
+      database: journaldatabase
+      uri: mongodb+srv://Abhinav555444:Abhinav123@cluster0.ty6ltxv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      auto-index-creation: true
+
+
